@@ -2,6 +2,8 @@
 
 <p>Projeto para Bootcamp Impulso - Digital Innovation One</p>
 
+<p>Base do estudo é CSS com Flexbox.</p>
+
 <p>Bootcamp: Impulso JavaScript na DIO https://web.dio.me/</p>
 <p>Mentora: Gabriela Pinheiro https://github.com/SpruceGabriela</p>
 
