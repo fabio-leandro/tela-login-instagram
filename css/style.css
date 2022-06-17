@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #F4F6F7 ;
+}
+
+.tela-login{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 100px;
+}
+
+.login-acesso{
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    align-items: center;
+    padding: 10px;
+}
+
+.dowloads img{
+    width: 120px;
+    height: 37px;
+}
+
+#logo-instagram{
+    width: 156px;
+    height: 51px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+#icon-facebook{
+   width: 15px;
+   height: 15px;
+}
+
+.acesso{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #CCD1D1;
+    padding-bottom: 15px;
+    align-items: center;
+    width: 80%;
+    background-color: #fff;
+}
+
+
+.acesso .btn{
+    width: 80%;
+    height: 30px;
+    color: #fff;
+    background-color: #3498DB;
+    border: 0;
+}
+
+input{
+    width: auto;
+    height: 30px;
+    padding-bottom: 20px;
+}
+
+form{
+    text-align: center;
+}
+
+form input{
+    width: 80%;
+    font-size: 12px;
+    padding-top: 12px;
+    margin-bottom: 7px;
+}
+
+.no-account{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #CCD1D1;
+    width: 80%;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    background-color: #fff;
+}
+
+.no-account span{
+    color: #3498DB;
+    font-weight: 700;
+}
+
+.get-app{
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+#facebook{
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #0B45D6;
+    font-weight: 700;
+}
+
+#facebook img{
+    margin: 2px;
+}
+
+#forgot-passowrd{
+    color: #0B45D6;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+#or{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media(max-width:727px){
+    .login-celulares{
+        display: none;
+    }
+}
+
