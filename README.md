@@ -1,4 +1,4 @@
-# Recriando do zero tela inicial do Instagram
+# Recriando do zero tela de login do Instagram
 
 <p>Projeto para Bootcamp Impulso - Digital Innovation One</p>
 
